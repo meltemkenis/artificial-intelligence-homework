@@ -10,7 +10,7 @@ The primary goal of this project is to demonstrate the resolution process on a s
 
 1. `kb.txt`: The knowledge base file containing the logical clauses for resolution. Each clause is represented on a separate line.
 
-2. `resolution.py`: The Python script that performs the resolution process. It reads the clauses from the knowledge base, identifies Clause1 and Clause2, and generates resolvent clauses based on specific resolution rules.
+2. `artint.py`: The Python script that performs the resolution process. It reads the clauses from the knowledge base, identifies Clause1 and Clause2, and generates resolvent clauses based on specific resolution rules.
 
 ## How to Use
 
@@ -18,7 +18,7 @@ The primary goal of this project is to demonstrate the resolution process on a s
 
 2. Ensure you have Python installed on your system.
 
-3. Run the `resolution.py` script using your Python environment.
+3. Run the `artint.py` script using your Python environment.
 
 4. The script will read the clauses from the `kb.txt` file and display the Clause1, Clause2, and Resolvent for each step of the resolution process.
 
